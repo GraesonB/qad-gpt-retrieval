@@ -1,0 +1,11 @@
+easyocr
+python-dotenv
+openai[embeddings]
+aiohttp
+pinecone-client
+langchain
+tiktoken
+pdf2image
+chromadb
+rich
+art

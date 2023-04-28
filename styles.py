@@ -1,0 +1,13 @@
+green = "[green bold]"
+green_e = "[/green bold]"
+blue = "[blue bold]"
+blue_e = "[/blue bold]"
+red = "[red bold]"
+red_e = "[/red bold]"
+magenta = "[magenta bold]"
+magenta_e = "[/magenta bold]"
+italic = "[italic]"
+italic_e = "[/italic]"
+
+green_s = "[green]"
+green_s_e = "[/green]"
